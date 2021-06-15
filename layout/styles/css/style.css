@@ -1,0 +1,378 @@
+.redes__socioales__iconos{
+	font-size: 20px!important;
+}
+
+#mainav{
+	display: flex;
+	justify-content:center;
+	font-size: 15px!important;
+}
+
+.footer__adherido{
+  position: absolute;
+  width: 100%;
+}
+
+.contenido__general{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 4em;
+	width: 100%;
+
+}
+
+.contenido__pagina__formulario{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.contenido__formulario__datos{
+	width: 60%;
+}
+
+.contenido__general2{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 4em;
+	width: 100%;
+
+}
+
+.formulario__ingreso{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 4em;
+	width: 50%;
+}
+
+.label__formularios__2{
+	font-weight:bold;
+	font-size:12px;
+	font-weight: bold;
+	margin-top: 1em;
+}
+
+.codigo__principal{
+	font-size:18px;
+	font-weight:bold;
+	position: relative;
+	left: 26%;
+}
+
+
+.selector__inicial{
+
+	width:100%;
+	height:45px; 
+	font-weight:bold; 
+	text-align:center; 
+	border-radius:.2em;
+	padding:.2em;
+	margin-bottom: 2em;
+
+}
+
+.letras__formatos__span{
+	font-size: 10px;
+	font-weight: bold;
+	color:#004d40;
+	float: right;
+}
+
+
+.respuestas__certificadosFederaciones{
+
+	width:100%;
+	height:45px; 
+	font-weight:bold; 
+	text-align:center; 
+	border-radius:.2em;
+	padding:.2em;
+	margin-bottom: 2em;
+
+}
+
+
+.forgot{
+	position: relative;
+	top: 85px;
+}
+
+.clase__contenedora{
+	display: flex;
+	width: 100%;
+	justify-content: center;
+}
+
+.seccion__1,.seccion__2{
+	width: 50%;
+}
+
+.elemento__contenedor__formularios{
+	width: 100%;
+}
+
+.formulario__ingresos{
+	width: 100%!important;
+}
+
+.seccion__2{
+	margin-left: 2%;
+}
+
+.elementos__li__flex{
+	display: flex!important;
+}
+
+.nombre__usuario{
+	position: relative;
+	top: -10px;
+}
+
+.error{
+	border:2px solid red;
+}
+
+.buscador__realizador{
+	width: 10%;
+    height: 35px;
+    margin-left: .5em;
+    border-radius: .5em;
+    background: #01579b;
+    color: white;
+    cursor: pointer;
+}
+
+.icono__buscadores{
+	position:relative; 
+	left:28%;
+	top:5px; 
+	font-size:12px;
+}
+
+.modal-header{
+	background: #01579b!important;
+    color: white!important;
+}
+
+.contenedor__modal{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+}
+
+.botones__modales{
+	padding: .5em;
+	border-radius: .5em;
+	background: #01579b ;
+	color: white;
+}
+
+.activacion__de__credenciales{
+	background: #01579b;
+    color: white;
+    font-size: 10px;
+    padding: .5em;
+    border-radius: .5em;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    position: relative;
+    top: 94px;
+    width: 64%;
+    left: 15%;
+}
+
+.activacion__de__credenciales:hover{
+	background: #01579b;
+    color: white;
+    font-size: 10px;
+    padding: .5em;
+    border-radius: .5em;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    position: relative;
+    top: 94px;
+    width: 64%;
+    left: 15%;
+}
+
+.codigo__estilizados{
+	border:none; 
+	font-weight:bold; 
+	font-size:20px; 
+	margin-top:2em;
+}
+
+.campos__proyectos{
+	width:40%; 
+	height:35px; 
+	text-align:center; 
+	font-size:12px;
+}
+
+.contenedor__de__informacion{
+	width:40%;
+	text-align:justify;
+	margin-top:2em; 
+	font-size:8px; 
+	font-weight:bold;
+}
+
+.separador__de__radios{
+	margin-left:10%;
+}
+
+.estilos__radios{
+	height: 20px;
+ 	width: 20px;
+	border-radius: 100%;
+	margin-left:1em;
+}
+
+.contenedor__radios__labels{
+	width: 90px!important;
+}
+
+.contenedor__radios__labels__2{
+	width: 320px!important;
+    text-align: justify!important;
+    font-size: 12px!important;
+}
+
+.contenedor__tabla{
+	width: 85%;
+}
+
+.tamanio__fuente__enfasis__tablas{
+	font-size:10px!important;
+}
+
+.ajs-cancel{
+	position:relative; 
+	top:-37px; 
+	left:80%;
+}
+
+.elementos__accesibles__anexos{
+
+	/*border: 1px solid #004d40;*/
+	width: 35%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	padding-top:2em;
+	padding-bottom:2em;
+}
+
+.titulos__anexos{
+	color: #01579b ;
+	font-weight: bold;
+}
+
+.relaciones{
+	width: 50%;
+	display: flex;
+	flex-direction:column;
+}
+
+.contenedor__pestanas{
+	width:100%;
+	display:flex;
+	align-items: center;
+	justify-content:center;
+}
+
+.rotulo__referencias{
+	font-weight:bold;
+	color:black;
+}
+
+.text__areas{
+	width:100%!important;
+}
+
+.text__tareas2{
+	width:100%!important;
+	height: 100px;
+}
+
+.check__estilos__lineas{
+	height: 25px;
+	width:25px;
+}
+
+.padding__filas{
+	padding:.5em;
+}
+
+.padding__filas__uno{
+	width:90%;
+	text-align:justify;
+}
+
+.padding__filas__dos{
+	width:10%;
+}
+
+.cambiandoColor{
+	background: #81d4fa;
+	color:black;
+	font-weight:bold;
+}
+
+.panel-body .row div{
+	margin-top: .5em!important;
+}
+
+.panel-collapse{
+	padding: .5em!important;
+}
+
+.letras__precionar{
+	font-size: 8px;
+	font-weight:bold;
+}
+
+.cursores__modales{
+	cursor: pointer;
+}
+
+.body__preguntas{
+	text-align: justify;
+}
+
+.enfacis__proyectos{
+	font-weight:bold;
+}
+
+.anadir__cosas{
+	background: #01579b;
+	color:white;
+	padding: .5em;
+	border-radius:1%;
+
+}
+
+.centrar__informacion__menus{
+	text-align:center;
+}
+
+@media (max-width: 750px) {
+
+.codigo__principal{
+	left: 8%;
+	font-size: 14px;
+}
+
+}
